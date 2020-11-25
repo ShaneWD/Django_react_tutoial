@@ -1,0 +1,7 @@
+pip install django 
+pip install djangorestframework 
+
+
+to run
+    - python manage.py makemigrations 
+    - python manage.py runserver 
